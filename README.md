@@ -4,7 +4,7 @@
 
 This is a header-only library to detect current platform for C and C++ programming languages.
 
-Features:
+Considering:
 - It does not `#include` header files to check for macros as much as possible.
 - It does not support obsolete compilers or operating systems.
 
@@ -49,7 +49,7 @@ License LGPLv3+: GNU Lesser GPL version 3 or later <http://gnu.org/licenses/lgpl
 This is free software; you are free to change and redistribute it.<br/>
 There is NO WARRANTY, to the extent permitted by law.
 
-See file `LICENSE` for more information.
+See `LICENSE` file for more information.
 
 ## Reporting Bugs
 
