@@ -39,7 +39,7 @@ PLATFORM_UNKNOWN
 
 ## Installation
 
-You can simply use `#include` with the header file.
+You can simply `#include` the header file.
 
 ## Copyright
 
