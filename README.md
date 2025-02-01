@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a header-only library to detect current platform for C and C++ programming languages.
+It is a header-only library to detect current platform in C and C++ programming languages.
 
 Considering:
 - It does not `#include` header files to check for macros as much as possible.
