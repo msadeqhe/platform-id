@@ -43,7 +43,7 @@ You can simply `#include` the header file.
 
 ## Copyright
 
-Copyright (C) 2017-2025  Mohamad Sadeq Hojat-ol Eslami
+Copyright (C) 2017-2018  Mohamad Sadeq Hojat-ol Eslami
 
 License LGPLv3+: GNU Lesser GPL version 3 or later <http://gnu.org/licenses/lgpl.html><br/>
 This is free software; you are free to change and redistribute it.<br/>

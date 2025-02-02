@@ -1,5 +1,5 @@
 /* Platform ID
- * Copyright (C) 2017-2025  Mohamad Sadeq Hojat-ol Eslami
+ * Copyright (C) 2017-2018  Mohamad Sadeq Hojat-ol Eslami
  *
  * This library is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Lesser General Public License as published by
